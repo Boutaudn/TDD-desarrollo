@@ -1,0 +1,14 @@
+{
+  "name": "tdd-desarrollo",
+  "version": "0.0.1",
+  "description": "ejercicio tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "nicole",
+  "license": "ISC"
+}
